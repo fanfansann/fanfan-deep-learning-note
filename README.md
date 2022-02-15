@@ -1,4 +1,4 @@
-<p align="center"><strong><font face="黑体" size=4><span style="font-size:18px">这里是《繁凡的深度学习笔记》官方代码、PDF文件仓库如果觉得还不错的话，欢迎 Starred ！谢谢^q^</span></strong></p></font>
+<p align="center"><strong><font face="黑体" size=4><span style="font-size:18px">这里是《繁凡的深度学习笔记》官方代码、PDF文件仓库如果觉得还不错的话，欢迎 ⭐ Starred ！谢谢^q^</span></strong></p></font>
 
 <p align="center"><strong><font face="黑体" size=4><span style="font-size:18px">《繁凡的深度学习笔记》前言、目录大纲 （DL笔记整理系列）</span></strong></p></font>
 
